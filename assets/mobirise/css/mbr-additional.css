@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
+
+#ext_menu-7 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-7 .navbar-brand {
+  font-family: 'Lato', sans-serif;
+}
+#header4-0 H1 {
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+#header4-0 P {
+  color: #000000;
+}
+#header4-0 B {
+  font-size: 48px;
+}
+#content4-2 H4 {
+  color: #d9534f;
+}
+#content4-2 P {
+  text-align: center;
+}
+#content5-5 .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
+}
+#content5-5 P {
+  font-family: 'Droid Sans', sans-serif;
+}
+#msg-box4-4 .lead P {
+  font-size: 12px;
+}
+#msg-box2-a H2 {
+  text-align: center;
+}
+#msg-box2-a P {
+  text-align: center;
+}
+#msg-box2-a B {
+  font-size: 24px;
+}
+
+#ext_menu-f .navbar-toggler {
+  color: #000;
+}
+#ext_menu-f .navbar-brand {
+  font-family: 'Lato', sans-serif;
+}
