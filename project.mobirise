@@ -24,8 +24,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Le Troquet du Marché",
+        "meta_descr": "[Restaurant - Bar - FDJ] Formules et Plats du Jour le midi à partir de 9,90 €  - Ouvert les Jeudis et Vendredis soir à partir de 19 h",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
