@@ -12,7 +12,13 @@
     "versionFirst": "4.10.0",
     "siteFonts": [],
     "uniqCompNum": 17,
-    "versionPublish": "4.10.0"
+    "versionPublish": "4.10.0",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
