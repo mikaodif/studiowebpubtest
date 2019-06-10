@@ -11,14 +11,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.10.0",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "siteUrl": "undefined",
-    "google-analytics": ""
+    "google-analytics": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -48,7 +49,7 @@
           "_tags": [
             "Thème"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Accueil</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Accueil</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -647,7 +648,7 @@
           "_tags": [
             "Thème"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Accueil</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Accueil</a></li>",
           "logo": {
             "image": {
               "active": true,
